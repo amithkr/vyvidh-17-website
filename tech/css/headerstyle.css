@@ -1,0 +1,12 @@
+#headerhome{
+    height:60px;
+    background-color:lightblue; 
+}
+#headerlogo{
+    float:right;
+    width:10%;
+}
+#headertitle{
+    float:left;
+    width:50%;
+}
